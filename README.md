@@ -1,106 +1,61 @@
 <div align="center">
-<img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-# <div align="center">I'm Damian, a FullStack web developer 💻</div>  
-  
+# Hi, I'm Damian 👋
 
-- 🔭 I’m currently working on creating new apps for my portfolio  
-  
+### FullStack Web Developer · Freelance @ [Ryōma Development](https://ryomadev.com)
 
-- 🌱 I’m currently learning TypeScript, Python and Java  
-  
+Building fast, accessible, and visually intentional websites — from La Plata, Argentina 🇦🇷
 
-<br/>  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ryomadev.com-FF00FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ryomadev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dcastroandrich)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/DCastroAndrich)
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="75" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="75" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="75" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+---
 
+### 🚀 About me
 
+I'm a solo freelance developer working under my own brand, **Ryōma Development**, building websites and web apps for clients across Spanish-speaking (Workana) and global freelance markets. I care as much about *how fast and accessible* a site is as I do about how it looks.
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="75" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="75" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="75" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="75" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="75" /></a>  
-<a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="75" /></a>  
-<a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="75" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /></a>  
-<a href="https://deno.land/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="75" /></a>  
+- 🔭 Currently building **InspectIA**, an AI-powered SaaS tool that automates property inspection report generation for home inspectors
+- 🎨 Iterating on my own portfolio (this repo's sibling 👉 [`ryoma-portfolio`](https://github.com/DCastroAndrich/ryoma-portfolio)), obsessing over Lighthouse scores and accessibility details most people skip
+- 🌱 Exploring self-hosted automation with n8n + the Claude API for personal productivity tooling
+- 🐧 Daily driver: **Manjaro Linux**, KDE Plasma, Catppuccin Mocha theme
+- 💬 Working in both Spanish and English
+
+### 🧰 Tech I work with
+
+**Frontend**
+
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Tooling**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DCastroAndrich&show_icons=true&count_private=true&hide_border=true&theme=catppuccin_mocha" alt="Damian's GitHub stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DCastroAndrich&hide_border=true&theme=catppuccin-mocha" alt="Damian's GitHub streak" height="165" />
+
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/DCastroAndrich" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/DCastroAndrich" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/dcastroandrich" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DCastroAndrich&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
- 
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=iryomai&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" /></div>  
-
-<br/>  
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=DCastroAndrich&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+📫 Reach me at **[ryomadev.com](https://ryomadev.com)** or on **[LinkedIn](https://linkedin.com/in/dcastroandrich)**
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
