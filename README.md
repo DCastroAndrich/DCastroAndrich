@@ -8,7 +8,6 @@ Building fast, accessible, and visually intentional websites — from La Plata, 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ryomadev.com-FF00FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ryomadev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dcastroandrich)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/DCastroAndrich)
 
 </div>
 
@@ -52,7 +51,7 @@ I'm a solo freelance developer working under my own brand, **Ryōma Development*
 
 </div>
 <div align="center">
-<img src="./profile/top-langs.svg" alt="Damian's most used languages" height="165" />
+<img src="./profile/top-langs.svg" alt="Damian's most used languages" height="200" />
 </div>
 
 ---
