@@ -47,9 +47,12 @@ I'm a solo freelance developer working under my own brand, **Ryōma Development*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DCastroAndrich&show_icons=true&count_private=true&hide_border=true&theme=catppuccin_mocha" alt="Damian's GitHub stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DCastroAndrich&hide_border=true&theme=catppuccin-mocha" alt="Damian's GitHub streak" height="165" />
+<img src="./profile/stats.svg" alt="Damian's GitHub stats" height="165" />
+<img src="./profile/streak.svg" alt="Damian's GitHub streak" height="165" />
 
+</div>
+<div align="center">
+<img src="./profile/top-langs.svg" alt="Damian's most used languages" height="165" />
 </div>
 
 ---
